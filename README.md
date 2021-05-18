@@ -10,7 +10,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/TCa10s/todo-list-js/main/img/todo-list.jpeg)
+![screenshot](https://raw.githubusercontent.com/TCa10s/todo-list-js/main/src/assets/todo-list.jpeg)
 
 
 ## Notas
@@ -21,10 +21,15 @@ Recuerden reconstruir los módulos de Node.
 npm install
 ```
 
-Y para reconstruir el build, recuerden:
+Para reconstruir el build, recuerden:
 
 ```
 npm run build
+```
+Y para correr la app:
+
+```
+npm start
 ```
 
 ## Contact
